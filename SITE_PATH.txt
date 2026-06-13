@@ -1,0 +1,4 @@
+Dripzone Pro Template v2
+Folder: C:\Users\Administrator\Documents\Saas service website\build\Release\websites\baba_turc_casablanca_bouskoura_baba_tur.__building
+Company: Baba Turc Casablanca - Bouskoura
+Template: food-tapas-bar-physics
